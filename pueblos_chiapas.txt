@@ -1,0 +1,20 @@
+# ============================================================
+# Pueblos Mágicos de Chiapas - Red de carreteras
+# Formato de pueblos : @CLAVE=Nombre completo
+# Formato de carretera: CLAVE_A CLAVE_B distancia_km
+# Las líneas vacías y las que inician con # se ignoran
+# ============================================================
+
+@CdC=Chiapa de Corzo
+@CdD=Comitán de Domínguez
+@COP=Copainalá
+@OE=Ocozocoautla de Espinosa
+@PAL=Palenque
+@SCdC=San Cristóbal de las Casas
+
+CdC COP 84.8
+CdC OE 49
+CdC SCdC 54.1
+CdD SCdC 90.3
+COP OE 83.5
+PAL SCdC 213
